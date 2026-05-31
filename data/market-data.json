@@ -1,68 +1,171 @@
 {
-  "updated_at": "2026-05-30 07:00 KST",
+  "updated_at": "2026-05-31 15:24 KST",
   "metrics": {
     "us10y": {
-      "value": 4.44,
+      "value": 4.453,
       "prev_day": 4.455,
-      "prev_week": 4.51,
-      "prev_month": 4.62,
-      "prev_year": 4.20,
-      "note": "2주 최저 / Gold에 유리",
-      "history": [4.58,4.54,4.51,4.56,4.53,4.62,4.59,4.55,4.51,4.48,4.455,4.44]
+      "prev_week": 4.558,
+      "prev_month": 4.418,
+      "prev_year": 4.424,
+      "history": [
+        4.481,
+        4.461,
+        4.595,
+        4.623,
+        4.667,
+        4.572,
+        4.586,
+        4.558,
+        4.493,
+        4.481,
+        4.455,
+        4.453
+      ],
+      "note": "4.45% — 중립 구간"
     },
     "dxy": {
-      "value": 98.94,
-      "prev_day": 98.96,
-      "prev_week": 97.80,
-      "prev_month": 98.56,
-      "prev_year": 99.26,
-      "note": "7주 고점 후 후퇴",
-      "history": [97.6,98.0,98.3,97.9,98.1,98.5,99.0,98.8,99.2,99.0,98.96,98.94]
+      "value": 98.91,
+      "prev_day": 99.02,
+      "prev_week": 99.32,
+      "prev_month": 98.92,
+      "prev_year": 99.28,
+      "history": [
+        98.48,
+        98.88,
+        99.27,
+        98.97,
+        99.3,
+        99.11,
+        99.19,
+        99.32,
+        99.17,
+        99.21,
+        99.02,
+        98.91
+      ],
+      "note": "98.91 — 중립 구간"
     },
     "wti": {
-      "value": 87.59,
-      "prev_day": 88.90,
-      "prev_week": 95.20,
-      "prev_month": 105.80,
-      "prev_year": 60.80,
-      "note": "월간 -17% / 이란 협상 영향",
-      "history": [102,99.5,97,95,92,91.5,90,89.5,89.0,88.9,87.0,87.59]
+      "value": 87.36,
+      "prev_day": 88.9,
+      "prev_week": 96.6,
+      "prev_month": 106.88,
+      "prev_year": 60.94,
+      "history": [
+        101.02,
+        101.17,
+        105.42,
+        108.66,
+        107.77,
+        98.26,
+        96.35,
+        96.6,
+        93.89,
+        88.68,
+        88.9,
+        87.36
+      ],
+      "note": "$87.36 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4516,
-      "prev_day": 4495.83,
-      "prev_week": 4380,
-      "prev_month": 4700,
-      "prev_year": 3280,
-      "note": "52주 $3,248 ~ $5,595",
-      "history": [3280,3500,3800,4100,4300,4600,4800,5200,4900,4700,4496,4516]
+      "value": 4593.0,
+      "prev_day": 4499.2998,
+      "prev_week": 4521.0,
+      "prev_month": 4545.2002,
+      "prev_year": 3317.1001,
+      "history": [
+        4697.7002,
+        4678.1001,
+        4555.7998,
+        4552.5,
+        4506.2998,
+        4531.2998,
+        4539.7998,
+        4521.0,
+        4500.3999,
+        4447.5,
+        4499.2998,
+        4593.0
+      ],
+      "note": "$4,593 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    { "name": "Q1 GDP (2차 추정)", "actual": "2.0%", "forecast": "2.3%", "previous": "0.5%", "status": "miss" },
-    { "name": "PCE 물가 (4월, YoY)", "actual": "3.8%", "forecast": "3.8%", "previous": "3.5%", "status": "inline" },
-    { "name": "Core PCE (4월, YoY)", "actual": "3.3%", "forecast": "3.3%", "previous": "3.2%", "status": "inline" },
-    { "name": "신규 실업수당 청구", "actual": "209K", "forecast": "215K", "previous": "212K", "status": "beat" },
-    { "name": "Fed 기준금리", "actual": "3.50~3.75%", "forecast": "동결", "previous": "동결", "status": "inline" }
+    {
+      "name": "Fed Powell Speech",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "—",
+      "status": "upcoming"
+    },
+    {
+      "name": "Fed Waller Speech",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "—",
+      "status": "upcoming"
+    },
+    {
+      "name": "S&P Global Manufacturing PMI Final",
+      "actual": "미발표",
+      "forecast": "55.3",
+      "previous": "54.5",
+      "status": "upcoming"
+    },
+    {
+      "name": "ISM Manufacturing Prices",
+      "actual": "미발표",
+      "forecast": "85.3",
+      "previous": "84.6",
+      "status": "upcoming"
+    },
+    {
+      "name": "ISM Manufacturing PMI",
+      "actual": "미발표",
+      "forecast": "52.6",
+      "previous": "52.7",
+      "status": "upcoming"
+    },
+    {
+      "name": "ISM Manufacturing New Orders",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "54.1",
+      "status": "upcoming"
+    },
+    {
+      "name": "ISM Manufacturing Employment",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "46.4",
+      "status": "upcoming"
+    },
+    {
+      "name": "Fed Kashkari Speech",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "—",
+      "status": "upcoming"
+    }
   ],
   "key_news": [
     {
-      "title": "미-이란, 60일 휴전 연장 잠정 합의 — 호르무즈 해협 개방 논의",
-      "body": "미국과 이란이 60일 휴전 연장과 호르무즈 해협 자유 통행 MOU에 잠정 합의. 이란 30일 내 기뢰 제거 동의. 트럼프 최종 승인 미정.",
-      "tag": "positive",
-      "impact": "WTI 이달 -12% 원인. 협상 타결 시 유가 추가 하락 → 인플레 완화 → 금·채권 강세 예상."
-    },
-    {
-      "title": "PCE 예측 부합 · GDP 하회 — Fed 동결 재확인",
-      "body": "4월 PCE 3.8% YoY, Core PCE 3.3%로 예측 부합. Q1 GDP 2.0%로 예측 2.3% 하회. 연말 동결 전망.",
-      "tag": "macro",
-      "impact": "US10Y 하락 압력. 달러 약세 요인. 12월 인상 확률 46% 주시 필요."
-    },
-    {
-      "title": "SpaceX IPO 로드쇼 6/4 출발 — $1.75조 밸류에이션",
-      "body": "SpaceX S-1 제출 완료. 나스닥 SPCX 상장 6/12 목표. $750억 조달 예정.",
+      "title": "Americans Have Never Been This Pessimistic. The Stock Market Doesn't Agree, and ",
+      "body": "Consumer sentiment is hitting all-time lows while the S&P 500 is hitting all-time highs. That's unprecedented, but past lows in sentiment provide some guidance as to what could happen next.",
       "tag": "market",
-      "impact": "대형 IPO 자금 이동으로 단기 유동성 흡수 가능. 기술주 변동성 확대."
+      "impact": "뉴스 원문을 확인하세요."
+    },
+    {
+      "title": "Dow Jones Futures: Trump Makes This Iran Move; Nvidia, Tesla Lead 5 Titans Near ",
+      "body": "The stock market hit fresh highs on Iran deal hopes. Nvidia, Tesla lead five trillion-dollar titans near buy points.",
+      "tag": "market",
+      "impact": "뉴스 원문을 확인하세요."
+    },
+    {
+      "title": "This AI Chip Giant Quietly Became Worth More Than Tesla, and Many Investors Stil",
+      "body": "The chipmaker quietly powering the AI boom has passed Tesla in market value, yet still flies under the radar.",
+      "tag": "market",
+      "impact": "뉴스 원문을 확인하세요."
     }
   ]
 }
