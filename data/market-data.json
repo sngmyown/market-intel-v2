@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-01 22:35 KST",
+  "updated_at": "2026-06-02 04:14 KST",
   "metrics": {
     "us10y": {
-      "value": 4.477,
+      "value": 4.475,
       "prev_day": 4.453,
       "prev_week": 4.493,
       "prev_month": 4.378,
@@ -19,12 +19,12 @@
         4.481,
         4.455,
         4.453,
-        4.477
+        4.475
       ],
-      "note": "4.48% — 중립 구간"
+      "note": "4.47% — 중립 구간"
     },
     "dxy": {
-      "value": 99.218,
+      "value": 99.185,
       "prev_day": 98.91,
       "prev_week": 99.17,
       "prev_month": 98.21,
@@ -41,12 +41,12 @@
         99.21,
         99.02,
         98.91,
-        99.218
+        99.185
       ],
-      "note": "99.22 — 중립 구간"
+      "note": "99.19 — 중립 구간"
     },
     "wti": {
-      "value": 92.31,
+      "value": 92.38,
       "prev_day": 87.36,
       "prev_week": 93.89,
       "prev_month": 101.94,
@@ -63,12 +63,12 @@
         88.68,
         88.9,
         87.36,
-        92.31
+        92.38
       ],
-      "note": "$92.31 — 정상 범위 상단"
+      "note": "$92.38 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4497.5,
+      "value": 4517.5,
       "prev_day": 4560.5,
       "prev_week": 4500.3999,
       "prev_month": 4629.8999,
@@ -85,47 +85,12 @@
         4447.5,
         4499.2998,
         4560.5,
-        4497.5
+        4517.5
       ],
-      "note": "$4,498 — US10Y·DXY 하락 시 강세"
+      "note": "$4,518 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "S&P Global Manufacturing PMI Final",
-      "actual": "미발표",
-      "forecast": "55.3",
-      "previous": "54.5",
-      "status": "upcoming"
-    },
-    {
-      "name": "ISM Manufacturing Prices",
-      "actual": "미발표",
-      "forecast": "85.5",
-      "previous": "84.6",
-      "status": "upcoming"
-    },
-    {
-      "name": "ISM Manufacturing PMI",
-      "actual": "미발표",
-      "forecast": "53",
-      "previous": "52.7",
-      "status": "upcoming"
-    },
-    {
-      "name": "ISM Manufacturing New Orders",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "54.1",
-      "status": "upcoming"
-    },
-    {
-      "name": "ISM Manufacturing Employment",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "46.4",
-      "status": "upcoming"
-    },
     {
       "name": "Fed Kashkari Speech",
       "actual": "미발표",
@@ -146,24 +111,59 @@
       "forecast": "—",
       "previous": "42.6",
       "status": "upcoming"
+    },
+    {
+      "name": "Fed Barr Speech",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "—",
+      "status": "upcoming"
+    },
+    {
+      "name": "S&P Global Composite PMI Final",
+      "actual": "미발표",
+      "forecast": "51.7",
+      "previous": "51.7",
+      "status": "upcoming"
+    },
+    {
+      "name": "S&P Global Services PMI Final",
+      "actual": "미발표",
+      "forecast": "50.9",
+      "previous": "51",
+      "status": "upcoming"
+    },
+    {
+      "name": "ISM Services New Orders",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "53.5",
+      "status": "upcoming"
+    },
+    {
+      "name": "ISM Services Employment",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "48",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "FedEx Freight Completes Spinoff, Joins S&P 500, Dow Jones Transport Indexes",
-      "body": "FedEx completes spinoff of its FedEx Freight business. Shares join the S&P 500, Dow Jones Transportation indexes. FDX stock upgraded.",
+      "title": "The Hanover Insurance Group (THG): Buy, Sell, or Hold Post Q1 Earnings?",
+      "body": "The Hanover Insurance Group has been treading water for the past six months, holding steady at $186.29. The stock also fell short of the S&P 500’s 10.9% gain during that period.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Monday as AI Optimism Over",
-      "body": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.2% and the actively trad",
+      "title": "3 Reasons to Sell FLG and 1 Stock to Buy Instead",
+      "body": "Flagstar Financial has followed the market’s trajectory closely, rising in tandem with the S&P 500 over the past six months. The stock has climbed by 13.3% to $14.06 per share while the index has gain",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Stock Market Today: Dow Rises Amid Continued U.S.-Iran Deal Hopes; Nvidia Rallie",
-      "body": "Stock Market Today: The Dow Jones index rose Monday amid ongoing hopes for a U.S.-Iran deal. Nvidia stock jumped on a new chip.",
+      "title": "3 Reasons GH is Risky and 1 Stock to Buy Instead",
+      "body": "Over the past six months, Guardant Health has been a great trade, beating the S&P 500 by 11.7%. Its stock price has climbed to $129.08, representing a healthy 22.7% increase. This was partly thanks to",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
