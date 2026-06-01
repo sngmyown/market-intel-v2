@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-05-31 15:24 KST",
+  "updated_at": "2026-06-01 22:35 KST",
   "metrics": {
     "us10y": {
-      "value": 4.453,
-      "prev_day": 4.455,
-      "prev_week": 4.558,
-      "prev_month": 4.418,
-      "prev_year": 4.424,
+      "value": 4.477,
+      "prev_day": 4.453,
+      "prev_week": 4.493,
+      "prev_month": 4.378,
+      "prev_year": 4.462,
       "history": [
-        4.481,
         4.461,
         4.595,
         4.623,
@@ -19,18 +18,18 @@
         4.493,
         4.481,
         4.455,
-        4.453
+        4.453,
+        4.477
       ],
-      "note": "4.45% — 중립 구간"
+      "note": "4.48% — 중립 구간"
     },
     "dxy": {
-      "value": 98.91,
-      "prev_day": 99.02,
-      "prev_week": 99.32,
-      "prev_month": 98.92,
-      "prev_year": 99.28,
+      "value": 99.218,
+      "prev_day": 98.91,
+      "prev_week": 99.17,
+      "prev_month": 98.21,
+      "prev_year": 98.7,
       "history": [
-        98.48,
         98.88,
         99.27,
         98.97,
@@ -41,18 +40,18 @@
         99.17,
         99.21,
         99.02,
-        98.91
+        98.91,
+        99.218
       ],
-      "note": "98.91 — 중립 구간"
+      "note": "99.22 — 중립 구간"
     },
     "wti": {
-      "value": 87.36,
-      "prev_day": 88.9,
-      "prev_week": 96.6,
-      "prev_month": 106.88,
-      "prev_year": 60.94,
+      "value": 92.31,
+      "prev_day": 87.36,
+      "prev_week": 93.89,
+      "prev_month": 101.94,
+      "prev_year": 62.52,
       "history": [
-        101.02,
         101.17,
         105.42,
         108.66,
@@ -63,18 +62,18 @@
         93.89,
         88.68,
         88.9,
-        87.36
+        87.36,
+        92.31
       ],
-      "note": "$87.36 — 정상 범위 상단"
+      "note": "$92.31 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4593.0,
-      "prev_day": 4499.2998,
-      "prev_week": 4521.0,
-      "prev_month": 4545.2002,
-      "prev_year": 3317.1001,
+      "value": 4497.5,
+      "prev_day": 4560.5,
+      "prev_week": 4500.3999,
+      "prev_month": 4629.8999,
+      "prev_year": 3370.6001,
       "history": [
-        4697.7002,
         4678.1001,
         4555.7998,
         4552.5,
@@ -85,26 +84,13 @@
         4500.3999,
         4447.5,
         4499.2998,
-        4593.0
+        4560.5,
+        4497.5
       ],
-      "note": "$4,593 — US10Y·DXY 하락 시 강세"
+      "note": "$4,498 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "Fed Powell Speech",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
-    {
-      "name": "Fed Waller Speech",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
     {
       "name": "S&P Global Manufacturing PMI Final",
       "actual": "미발표",
@@ -115,14 +101,14 @@
     {
       "name": "ISM Manufacturing Prices",
       "actual": "미발표",
-      "forecast": "85.3",
+      "forecast": "85.5",
       "previous": "84.6",
       "status": "upcoming"
     },
     {
       "name": "ISM Manufacturing PMI",
       "actual": "미발표",
-      "forecast": "52.6",
+      "forecast": "53",
       "previous": "52.7",
       "status": "upcoming"
     },
@@ -146,24 +132,38 @@
       "forecast": "—",
       "previous": "—",
       "status": "upcoming"
+    },
+    {
+      "name": "Fed Hammack Speech",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "—",
+      "status": "upcoming"
+    },
+    {
+      "name": "RCM/TIPP Economic Optimism Index",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "42.6",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Americans Have Never Been This Pessimistic. The Stock Market Doesn't Agree, and ",
-      "body": "Consumer sentiment is hitting all-time lows while the S&P 500 is hitting all-time highs. That's unprecedented, but past lows in sentiment provide some guidance as to what could happen next.",
+      "title": "FedEx Freight Completes Spinoff, Joins S&P 500, Dow Jones Transport Indexes",
+      "body": "FedEx completes spinoff of its FedEx Freight business. Shares join the S&P 500, Dow Jones Transportation indexes. FDX stock upgraded.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Dow Jones Futures: Trump Makes This Iran Move; Nvidia, Tesla Lead 5 Titans Near ",
-      "body": "The stock market hit fresh highs on Iran deal hopes. Nvidia, Tesla lead five trillion-dollar titans near buy points.",
+      "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Monday as AI Optimism Over",
+      "body": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.2% and the actively trad",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "This AI Chip Giant Quietly Became Worth More Than Tesla, and Many Investors Stil",
-      "body": "The chipmaker quietly powering the AI boom has passed Tesla in market value, yet still flies under the radar.",
+      "title": "Stock Market Today: Dow Rises Amid Continued U.S.-Iran Deal Hopes; Nvidia Rallie",
+      "body": "Stock Market Today: The Dow Jones index rose Monday amid ongoing hopes for a U.S.-Iran deal. Nvidia stock jumped on a new chip.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
