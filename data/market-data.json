@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-04 00:55 KST",
+  "updated_at": "2026-06-04 19:49 KST",
   "metrics": {
     "us10y": {
-      "value": 4.497,
+      "value": 4.491,
       "prev_day": 4.455,
       "prev_week": 4.481,
       "prev_month": 4.446,
@@ -19,18 +19,17 @@
         4.453,
         4.475,
         4.455,
-        4.497
+        4.491
       ],
-      "note": "4.50% — 중립 구간"
+      "note": "4.49% — 중립 구간"
     },
     "dxy": {
-      "value": 99.446,
-      "prev_day": 99.22,
-      "prev_week": 99.21,
-      "prev_month": 98.47,
-      "prev_year": 99.25,
+      "value": 99.294,
+      "prev_day": 99.53,
+      "prev_week": 99.02,
+      "prev_month": 98.48,
+      "prev_year": 98.79,
       "history": [
-        98.97,
         99.3,
         99.11,
         99.19,
@@ -41,18 +40,18 @@
         98.91,
         99.2,
         99.22,
-        99.446
+        99.53,
+        99.294
       ],
-      "note": "99.45 — 중립 구간"
+      "note": "99.29 — 중립 구간"
     },
     "wti": {
-      "value": 95.88,
-      "prev_day": 93.76,
-      "prev_week": 88.68,
-      "prev_month": 106.42,
-      "prev_year": 63.41,
+      "value": 95.12,
+      "prev_day": 96.02,
+      "prev_week": 88.9,
+      "prev_month": 102.27,
+      "prev_year": 62.85,
       "history": [
-        108.66,
         107.77,
         98.26,
         96.35,
@@ -63,18 +62,18 @@
         87.36,
         92.16,
         93.76,
-        95.88
+        96.02,
+        95.12
       ],
-      "note": "$95.88 — 정상 범위 상단"
+      "note": "$95.12 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4468.1001,
-      "prev_day": 4489.1001,
-      "prev_week": 4447.5,
-      "prev_month": 4519.5,
-      "prev_year": 3350.2,
+      "value": 4496.7998,
+      "prev_day": 4436.7002,
+      "prev_week": 4499.2998,
+      "prev_month": 4555.7998,
+      "prev_year": 3373.5,
       "history": [
-        4552.5,
         4506.2998,
         4531.2998,
         4539.7998,
@@ -85,9 +84,10 @@
         4560.5,
         4475.2002,
         4489.1001,
-        4468.1001
+        4436.7002,
+        4496.7998
       ],
-      "note": "$4,468 — US10Y·DXY 하락 시 강세"
+      "note": "$4,497 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
@@ -150,20 +150,20 @@
   ],
   "key_news": [
     {
-      "title": "1 Industrials Stock to Target This Week and 2 We Ignore",
-      "body": "Even if they go mostly unnoticed, industrial businesses are the backbone of our country. But their prominence also brings high exposure to the ups and downs of economic cycles. Luckily, the tide is tu",
+      "title": "3 Things to Know About Home Depot Stock Before You Buy",
+      "body": "With this retail stock trading 28% down from its peak, investors might be interested in this opportunity.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Stock Market Today: Dow Slumps Amid U.S.-Iran Strikes; IBM Dives (Live Coverage)",
-      "body": "Stock Market Today: The Dow Jones index dropped Wednesday after Trump's latest U.S.-Iran comments. Marvell stock continued to soar.",
+      "title": "SpaceX plans record stock market debut that could make Elon Musk a trillionaire",
+      "body": "SpaceX says it plans to raise up to $75 billion when it goes public this month in what could be the largest stock market debut ever, and it would put Elon Musk on course to becoming the first trillion",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "1 Energy Stock with Competitive Advantages and 2 We Find Risky",
-      "body": "Energy businesses quietly power the physical things we depend on, from cars and homes to e-commerce infrastructure. They are also bound to benefit from a friendlier regulatory environment with the “Am",
+      "title": "The Stock Market Sounds an Alarm as Investors Get a Grim Update on President Tru",
+      "body": "Inflation has accelerated and economic growth has slowed under President Trump.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
