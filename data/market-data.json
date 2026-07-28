@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-07-28 08:10 KST",
+  "updated_at": "2026-07-29 08:06 KST",
   "metrics": {
     "us10y": {
-      "value": 4.641,
-      "prev_day": 4.679,
-      "prev_week": 4.598,
-      "prev_month": 4.372,
+      "value": 4.604,
+      "prev_day": 4.641,
+      "prev_week": 4.628,
+      "prev_month": 4.374,
       "prev_year": 4.42,
       "history": [
-        4.569,
         4.609,
         4.585,
         4.545,
@@ -19,15 +18,16 @@
         4.657,
         4.703,
         4.679,
-        4.641
+        4.641,
+        4.604
       ],
-      "note": "4.64% — 금리 부담 구간"
+      "note": "4.60% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 101.514,
+      "value": 101.393,
       "prev_day": 101.47,
-      "prev_week": 100.99,
-      "prev_month": 101.36,
+      "prev_week": 101.18,
+      "prev_month": 101.11,
       "prev_year": 98.66,
       "history": [
         100.97,
@@ -41,18 +41,17 @@
         101.14,
         101.43,
         101.47,
-        101.514
+        101.393
       ],
-      "note": "101.51 — 달러 강세 구간"
+      "note": "101.39 — 달러 강세 구간"
     },
     "wti": {
-      "value": 82.14,
-      "prev_day": 89.31,
-      "prev_week": 83.23,
-      "prev_month": 69.23,
+      "value": 82.53,
+      "prev_day": 82.61,
+      "prev_week": 84.91,
+      "prev_month": 70.75,
       "prev_year": 66.71,
       "history": [
-        71.41,
         78.14,
         79.34,
         79.6,
@@ -63,18 +62,18 @@
         86.83,
         92.19,
         89.31,
-        82.14
+        82.61,
+        82.53
       ],
-      "note": "$82.14 — 적정 범위 (70~85)"
+      "note": "$82.53 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4074.8999,
-      "prev_day": 4067.6001,
-      "prev_week": 4010.3,
-      "prev_month": 4078.7,
+      "value": 4017.6001,
+      "prev_day": 4074.5,
+      "prev_week": 4071.1001,
+      "prev_month": 4022.3,
       "prev_year": 3309.1001,
       "history": [
-        4104.1001,
         3997.0,
         4061.1001,
         4044.0,
@@ -85,47 +84,13 @@
         4146.8999,
         4046.6001,
         4067.6001,
-        4074.8999
+        4074.5,
+        4017.6001
       ],
-      "note": "$4,075 — US10Y·DXY 하락 시 강세"
+      "note": "$4,018 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "Richmond Fed Manufacturing Shipments Ind",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "3",
-      "status": "upcoming"
-    },
-    {
-      "name": "Richmond Fed Manufacturing Index",
-      "actual": "미발표",
-      "forecast": "10",
-      "previous": "4",
-      "status": "upcoming"
-    },
-    {
-      "name": "Richmond Fed Services Revenues Index",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "-1",
-      "status": "upcoming"
-    },
-    {
-      "name": "Dallas Fed Services Revenues Index",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "9.8",
-      "status": "upcoming"
-    },
-    {
-      "name": "Dallas Fed Services Index",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "2.9",
-      "status": "upcoming"
-    },
     {
       "name": "Fed Interest Rate Decision",
       "actual": "미발표",
@@ -143,27 +108,62 @@
     {
       "name": "Initial Jobless Claims",
       "actual": "미발표",
-      "forecast": "204",
+      "forecast": "200",
       "previous": "187",
+      "status": "upcoming"
+    },
+    {
+      "name": "Jobless Claims 4-week Average",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "207.5",
+      "status": "upcoming"
+    },
+    {
+      "name": "Continuing Jobless Claims",
+      "actual": "미발표",
+      "forecast": "1800",
+      "previous": "1796",
+      "status": "upcoming"
+    },
+    {
+      "name": "Core PCE Prices QoQ Adv",
+      "actual": "미발표",
+      "forecast": "3.5",
+      "previous": "4.4",
+      "status": "upcoming"
+    },
+    {
+      "name": "GDP Sales QoQ Adv",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "1.9",
+      "status": "upcoming"
+    },
+    {
+      "name": "GDP Growth Rate QoQ Adv",
+      "actual": "미발표",
+      "forecast": "2.1",
+      "previous": "2.1",
       "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Dow Ends Higher On Support From Weak Oil, But AI Concerns Weigh On Nasdaq, S&P 5",
-      "body": "China has begun developing deep ultraviolet lithography machines used to build semiconductors, according to media reports.",
+      "title": "3 Financials Stocks on Our Watchlist",
+      "body": "Financial firms serve as the backbone of the economy, providing essential services from lending and investment management to risk management and payment processing. But worries about economic uncertai",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "1 Consumer Stock to Research Further and 2 We Find Risky",
-      "body": "Regarded as defensive investments, consumer staples stocks are generally safe bets in choppy markets. But they’re also double-edged swords as they often lag in booming conditions, and this pattern has",
+      "title": "Wall Street ends mixed as investors await tech earnings",
+      "body": "STORY: Wall Street's main indexes closed mixed on Tuesday with the Dow gaining 1%, the S&P 500 edging up about two-tenths of a percent and the Nasdaq dipping by roughly two-tenths of a percent.Markets",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "3 Consumer Stocks We Approach with Caution",
-      "body": "The performance of consumer discretionary businesses is closely linked to economic cycles. Over the past six months, it seems like demand may be facing some headwinds as the industry’s 2.2% return has",
+      "title": "Dow Jones Futures Fall, Oil Jumps On Iran News; Seagate, SK Hynix, KLA, Bloom En",
+      "body": "Futures fell as oil prices jumped on an Iran news. Seagate, SK Hynix, KLA, Bloom Energy are key earnings late. Will the Fed surprise?",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
